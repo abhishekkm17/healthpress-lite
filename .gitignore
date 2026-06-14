@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts (optional)
+# If output.css is generated automatically and can be rebuilt:
+# assets/css/output.css
+
+.vscode/
+.idea/
